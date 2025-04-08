@@ -1,1 +1,1 @@
-# Spa-m-Email-Classifier
+# Spam-Email-Classifier
